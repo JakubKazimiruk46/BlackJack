@@ -1,4 +1,5 @@
-﻿import random, sys
+﻿#Prosty program symulujący grę w Blackjacka
+import random, sys
 
 HEARTS = '♥'
 SPADES = '♠'
