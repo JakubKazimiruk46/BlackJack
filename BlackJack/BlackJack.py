@@ -1,4 +1,5 @@
 ﻿#Prosty program symulujący grę w Blackjacka
+#W python
 import random, sys
 
 HEARTS = '♥'
